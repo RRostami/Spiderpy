@@ -13,4 +13,4 @@ __license__ = 'GNU'
 __copyright__ = 'Copyright 2014 Ramtin Rostami'
 
 
-from . core import *
+from core import *
